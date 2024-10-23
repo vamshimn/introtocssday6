@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+.heading{
+    font: size 10px;;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    text-align: center;
+    background-color: beige;
+    border: 10px solid dodgerblue;
+}
